@@ -8,4 +8,4 @@ Spript for linux(Arch) to change DNS automatically to options given including sh
  ``` bash
  DNS-change
  ```
-it stores log in  /tmp/DNS-change-log and you can view it by ``` cat /tmp/DNS-change-log ```
+it stores log in  ```/tmp/DNS-change-log```  and you can view it by ``` less /tmp/DNS-change-log ```
